@@ -1,0 +1,1269 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif\r\n"
+    "#include ""res\\Nethief.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\nethief.ico"
+IDI_LIGHT               ICON    DISCARDABLE     "res\\light.ico"
+IDI_PROGRAM             ICON    DISCARDABLE     "res\\program.ico"
+IDI_PARAMETER           ICON    DISCARDABLE     "res\\parameter.ico"
+IDI_PROPERTY            ICON    DISCARDABLE     "res\\property.ico"
+IDI_OFFLINE             ICON    DISCARDABLE     "res\\offline.ico"
+IDI_BUSY                ICON    DISCARDABLE     "res\\busy.ico"
+IDI_SYSTRAY             ICON    DISCARDABLE     "res\\systray.ico"
+IDI_SYSTRAY1            ICON    DISCARDABLE     "res\\systray1.ico"
+IDI_EXPORT              ICON    DISCARDABLE     "res\\export.ico"
+IDI_VIEW                ICON    DISCARDABLE     "res\\view.ico"
+IDI_KEYNAME             ICON    DISCARDABLE     "res\\keyname.ico"
+IDI_FILENAME            ICON    DISCARDABLE     "res\\filename.ico"
+IDI_FILEMANAGER         ICON    DISCARDABLE     "res\\filemanager.ico"
+IDI_NOTE                ICON    DISCARDABLE     "res\\note.ico"
+IDI_FINDFILE            ICON    DISCARDABLE     "res\\findfile.ico"
+IDI_MODE                ICON    DISCARDABLE     "res\\mode.ico"
+IDI_MYCOMPUTER          ICON    DISCARDABLE     "res\\mycomputer.ico"
+IDI_FOLDER              ICON    DISCARDABLE     "res\\folder.ico"
+IDI_FOLDER_OPEN         ICON    DISCARDABLE     "res\\folder_open.ico"
+IDI_REMOTEHOST          ICON    DISCARDABLE     "res\\remotehost.ico"
+IDI_REMOTEHOST_DISCONNECT ICON    DISCARDABLE     "res\\remotehost_disconnect.ico"
+IDI_DRIVE_REMOVABLE     ICON    DISCARDABLE     "res\\drive_removable.ico"
+IDI_DRIVE_FIXED         ICON    DISCARDABLE     "res\\drive_fixed.ico"
+IDI_DRIVE_CDROM         ICON    DISCARDABLE     "res\\drive_cdrom.ico"
+IDI_DRIVE_ZIP           ICON    DISCARDABLE     "res\\drive_zip.ico"
+IDI_DRIVE_REMOTE        ICON    DISCARDABLE     "res\\drive_remote.ico"
+IDI_LARGE_DRIVE_REMOVABLE ICON    DISCARDABLE     "res\\large_drive_removable.ico"
+IDI_LARGE_DRIVE_FIXED   ICON    DISCARDABLE     "res\\large_drive_fixed.ico"
+IDI_LARGE_DRIVE_CDROM   ICON    DISCARDABLE     "res\\large_drive_cdrom.ico"
+IDI_LARGE_DRIVE_ZIP     ICON    DISCARDABLE     "res\\large_drive_zip.ico"
+IDI_LARGE_DRIVE_REMOTE  ICON    DISCARDABLE     "res\\large_drive_remote.ico"
+IDI_REMOTEHOST_HTTPTUNNEL ICON    DISCARDABLE     "res\\remotehost_httptunnel.ico"
+IDI_REMOTEHOST_HTTPTUNNEL_DISCONNECT ICON    DISCARDABLE     "res\\remotehost_httptunnel_disconnect.ico"
+IDI_SELECTIP            ICON    DISCARDABLE     "res\\selectip.ico"
+IDI_ADAPTER             ICON    DISCARDABLE     "res\\adapter.ico"
+IDI_SELECTFILEOPERATION ICON    DISCARDABLE     "res\\selectfileoperation.ico"
+IDI_UNKNOWNFILE         ICON    DISCARDABLE     "res\\unknownfile.ico"
+IDI_URL                 ICON    DISCARDABLE     "res\\url.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_CONSOLETOOLBAR      BITMAP  DISCARDABLE     "res\\ConsoleToolBar.bmp"
+IDB_CONSOLETOOLBAR      BITMAP  DISCARDABLE     "res\\ConsoleToolBar16M.bmp"
+IDR_FILETOOLBAR         BITMAP  DISCARDABLE     "res\\FileToolBar.bmp"
+IDB_FILETOOLBAR         BITMAP  DISCARDABLE     "res\\FileToolBar16M.bmp"
+IDR_NETTOOLBAR          BITMAP  DISCARDABLE     "res\\NetToolBar.bmp"
+IDB_NETTOOLBAR          BITMAP  DISCARDABLE     "res\\NetToolBar16M.bmp"
+IDB_WIZARD              BITMAP  DISCARDABLE     "res\\Wizard.bmp"
+IDB_LOGO                BITMAP  DISCARDABLE     "res\\Logo.bmp"
+IDB_SPLASH              BITMAP  DISCARDABLE     "res\\Splash.bmp"
+IDB_LOGO1               BITMAP  DISCARDABLE     "res\\Logo1.bmp"
+IDB_NETTOOLBAR_HOT      BITMAP  DISCARDABLE     "res\\NetToolBarHot16M.bmp"
+IDB_FILETOOLBAR_HOT     BITMAP  DISCARDABLE     "res\\FileToolBarHot16M.bmp"
+IDB_CONSOLETOOLBAR_HOT  BITMAP  DISCARDABLE     "res\\ConsoleToolBarHot16M.bmp"
+IDB_CUTLINE             BITMAP  DISCARDABLE     "res\\Cutline.bmp"
+IDB_CUTLINE1            BITMAP  DISCARDABLE     "res\\Cutline1.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_CONSOLETOOLBAR TOOLBAR DISCARDABLE  32, 32
+BEGIN
+    BUTTON      ID_TOOLBAR_FILEMANAGER
+    BUTTON      ID_TOOLBAR_COMMUNITY
+END
+
+IDR_FILETOOLBAR TOOLBAR DISCARDABLE  32, 32
+BEGIN
+    BUTTON      ID_TOOLBAR_NEWFILE
+    BUTTON      ID_TOOLBAR_NEWFOLDER
+    SEPARATOR
+    BUTTON      ID_TOOLBAR_BACK
+    BUTTON      ID_TOOLBAR_REFRESH
+    BUTTON      ID_TOOLBAR_FINDFILE
+    SEPARATOR
+    BUTTON      ID_TOOLBAR_CUT
+    BUTTON      ID_TOOLBAR_COPY
+    BUTTON      ID_TOOLBAR_PASTE
+    SEPARATOR
+    BUTTON      ID_TOOLBAR_RUN
+    BUTTON      ID_TOOLBAR_DELETE
+    BUTTON      ID_TOOLBAR_VIEW
+    BUTTON      ID_TOOLBAR_PROPERTY
+END
+
+IDR_NETTOOLBAR TOOLBAR DISCARDABLE  32, 32
+BEGIN
+    BUTTON      ID_TOOLBAR_DELETEHOST
+    BUTTON      ID_TOOLBAR_DISCONNECT
+    SEPARATOR
+    BUTTON      ID_TOOLBAR_STOP
+    SEPARATOR
+    BUTTON      ID_TOOLBAR_BUILDSERVER
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "主控(&C)"
+    BEGIN
+        MENUITEM "文件管理器(&F)\tAlt+Q",       ID_TOOLBAR_FILEMANAGER
+        MENUITEM "IP地址通知器(&S)\tAlt+Q",     ID_TOOLBAR_COMMUNITY
+        MENUITEM SEPARATOR
+        MENUITEM "注销当前设置(&L)",            ID_MENU_CONSOLE_LOGON
+        MENUITEM SEPARATOR
+        MENUITEM "退出(&X)\tAlt+X",             ID_APP_EXIT
+    END
+    POPUP "文件(&F)"
+    BEGIN
+        MENUITEM "新建文件(&N)\tCtrl+N",        ID_TOOLBAR_NEWFILE
+        MENUITEM "新建文件夹(&E)\tCtrl+E",      ID_TOOLBAR_NEWFOLDER
+        MENUITEM SEPARATOR
+        MENUITEM "向上一级(&B)\tBackspace",     ID_TOOLBAR_BACK
+        MENUITEM "刷新(&R)\tF5",                ID_TOOLBAR_REFRESH
+        MENUITEM "查找(&F)...\tF3,Ctrl+F",      ID_TOOLBAR_FINDFILE
+        MENUITEM SEPARATOR
+        MENUITEM "剪贴(&T)\tCtrl+X",            ID_TOOLBAR_CUT
+        MENUITEM "复制(&C)\tCtrl+C",            ID_TOOLBAR_COPY
+        MENUITEM "粘贴(&P)\tCtrl+V",            ID_TOOLBAR_PASTE
+        MENUITEM SEPARATOR
+        MENUITEM "运行(&R)\tEnter",             ID_MENU_FILE_RUN
+        MENUITEM "高级运行(&U)...\tCtrl+R",     ID_TOOLBAR_RUN
+        MENUITEM "重命名(&M)\tF2",              ID_MENU_FILE_RENAME
+        MENUITEM "删除(&D)\tDel,Shift+Del",     ID_TOOLBAR_DELETE
+        MENUITEM "查看(&V)\tCtrl+I",            ID_TOOLBAR_VIEW
+        MENUITEM "属性(&O)\tAlt+Enter",         ID_TOOLBAR_PROPERTY
+        MENUITEM SEPARATOR
+        MENUITEM "全部选定(&A)\tCtrl+A",        ID_TOOLBAR_SELECTALL
+        MENUITEM "反向选择(&I)",                ID_TOOLBAR_REVERSESELECT
+    END
+    POPUP "网络(&N)"
+    BEGIN
+        MENUITEM "删除主机(&D)\tDel",           ID_TOOLBAR_DELETEHOST
+        MENUITEM "断开连接(&I)\tCtrl+D",        ID_TOOLBAR_DISCONNECT
+        MENUITEM "远程卸载(&U)\tCtrl+U",        ID_MENU_NET_UNINSTALL
+        MENUITEM "查看注释(&N)\tCtrl+O",        ID_MENU_NET_NOTE
+        MENUITEM SEPARATOR
+        MENUITEM "停止工作(&S)\tF6",            ID_TOOLBAR_STOP
+        MENUITEM SEPARATOR
+        MENUITEM "生成服务端(&B)...\tF7",       ID_TOOLBAR_BUILDSERVER
+        MENUITEM "服务端自动下载运行程序设置(&A)...\tF8", 
+                                                ID_MENU_NET_DOWNLOAD
+        MENUITEM "选项(&O)...\tF9",             ID_MENU_NET_OPTION
+    END
+    POPUP "帮助(&H)"
+    BEGIN
+        MENUITEM "每日一帖(&T)...",             ID_HELP_TIPOFTHEDAY
+        MENUITEM SEPARATOR
+        MENUITEM "软件说明(&R)\tF1",            ID_HELP_README
+        MENUITEM "作者主页(&H)",                ID_HELP_HOMEPAGE
+        MENUITEM "意见反馈(&E)",                ID_HELP_EMAIL
+        MENUITEM "在线升级(&U)...",             ID_HELP_UPDATE
+        MENUITEM SEPARATOR
+        MENUITEM "关于 网络神偷(&A)...",        ID_APP_ABOUT
+    END
+END
+
+IDR_SYSTRAYMENU MENU DISCARDABLE 
+BEGIN
+    POPUP "Popup"
+    BEGIN
+        MENUITEM "主窗口(&W)\tAlt+~",           ID_SYSTRAYMENU_WINDOW
+        MENUITEM "隐藏图标(&H)",                ID_SYSTRAYMENU_HIDE
+        MENUITEM SEPARATOR
+        MENUITEM "生成服务端(&B)...",           ID_TOOLBAR_BUILDSERVER
+        MENUITEM SEPARATOR
+        MENUITEM "退出(&X)",                    ID_APP_EXIT
+    END
+END
+
+IDR_POPUPMENU MENU DISCARDABLE 
+BEGIN
+    POPUP "Popup"
+    BEGIN
+        MENUITEM "添加主机(&A)",                ID_POPUPMENU_ADD
+        MENUITEM "修改备注(&M)",                ID_POPUPMENU_REMARK
+        MENUITEM SEPARATOR
+        MENUITEM "复制(&C)",                    ID_POPUPMENU_COPY
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS PRELOAD MOVEABLE PURE 
+BEGIN
+    "A",            ID_TOOLBAR_SELECTALL,   VIRTKEY, CONTROL, NOINVERT
+    "D",            ID_TOOLBAR_DISCONNECT,  VIRTKEY, CONTROL, NOINVERT
+    "E",            ID_TOOLBAR_NEWFOLDER,   VIRTKEY, CONTROL, NOINVERT
+    "F",            ID_TOOLBAR_FINDFILE,    VIRTKEY, CONTROL, NOINVERT
+    "I",            ID_TOOLBAR_VIEW,        VIRTKEY, CONTROL, NOINVERT
+    "N",            ID_TOOLBAR_NEWFILE,     VIRTKEY, CONTROL, NOINVERT
+    "O",            ID_MENU_NET_NOTE,       VIRTKEY, CONTROL, NOINVERT
+    "Q",            ID_MENU_CONSOLE_TAB,    VIRTKEY, ALT, NOINVERT
+    "R",            ID_TOOLBAR_RUN,         VIRTKEY, CONTROL, NOINVERT
+    "U",            ID_MENU_NET_UNINSTALL,  VIRTKEY, CONTROL, NOINVERT
+    VK_DELETE,      ID_TOOLBAR_DELETE,      VIRTKEY, NOINVERT
+    VK_DELETE,      ID_TOOLBAR_DELETE,      VIRTKEY, SHIFT, NOINVERT
+    VK_F1,          ID_HELP_README,         VIRTKEY, NOINVERT
+    VK_F2,          ID_MENU_FILE_RENAME,    VIRTKEY, NOINVERT
+    VK_F3,          ID_TOOLBAR_FINDFILE,    VIRTKEY, NOINVERT
+    VK_F5,          ID_TOOLBAR_REFRESH,     VIRTKEY, NOINVERT
+    VK_F6,          ID_TOOLBAR_STOP,        VIRTKEY, NOINVERT
+    VK_F7,          ID_TOOLBAR_BUILDSERVER, VIRTKEY, NOINVERT
+    VK_F8,          ID_MENU_NET_DOWNLOAD,   VIRTKEY, NOINVERT
+    VK_F9,          ID_MENU_NET_OPTION,     VIRTKEY, NOINVERT
+    VK_RETURN,      ID_TOOLBAR_PROPERTY,    VIRTKEY, ALT, NOINVERT
+    "X",            ID_APP_EXIT,            VIRTKEY, ALT, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 209, 139
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 网络神偷"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,8,11,20,20
+    LTEXT           "名称:",IDC_STATIC,37,7,24,8
+    LTEXT           "Static",IDC_STATIC_VERSION,69,7,128,8
+    LTEXT           "出品:   蔬菜工作室",IDC_STATIC,37,20,73,8
+    LTEXT           "日期:",IDC_STATIC,37,33,24,8
+    LTEXT           "Static",IDC_STATIC_DATE,69,33,128,8
+    LTEXT           "平台:   Windows 95/98/Me/NT/2000/XP",IDC_STATIC,37,46,
+                    141,8
+    LTEXT           "类型:   免费软件",IDC_STATIC,37,59,65,8
+    LTEXT           "主页:",IDC_STATIC,37,72,24,8
+    LTEXT           "www.greenstuffsoft.net",IDC_STATIC_HOMEPAGE,69,72,89,8,
+                    SS_NOTIFY
+    LTEXT           "E-mail:",IDC_STATIC,37,85,32,8
+    LTEXT           "webmaster@greenstuffsoft.net",IDC_STATIC_EMAIL,69,85,
+                    113,8,SS_NOTIFY
+    LTEXT           "可以从我们的主页获取更多的信息，欢迎访问！",IDC_STATIC,
+                    37,102,168,9
+    DEFPUSHBUTTON   "确定",IDOK,149,118,50,14,WS_GROUP
+END
+
+IDD_SPLASH DIALOGEX 0, 0, 337, 145
+STYLE WS_POPUP | WS_VISIBLE
+EXSTYLE WS_EX_TOOLWINDOW
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    CONTROL         131,IDC_STATIC,"Static",SS_BITMAP,0,0,337,145
+END
+
+IDD_TIPOFTHEDAY DIALOGEX 0, 0, 323, 153
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "欢迎来到 网络神偷 的世界..."
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "关闭",ID_OK,238,116,76,14
+    PUSHBUTTON      "软件说明(&R)",IDC_BUTTON_README,238,30,76,14
+    PUSHBUTTON      "作者主页(&H)",IDC_BUTTON_HOMEPAGE,238,48,76,14
+    PUSHBUTTON      "意见反馈(&E)",IDC_BUTTON_EMAIL,238,66,76,14
+    PUSHBUTTON      "下一提示(&T)",IDC_BUTTON_TIPS,238,84,76,14
+    CONTROL         "下一次启动时显示这一屏(&S)",IDC_CHECK1,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,10,135,115,10
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,238,107,78,1
+    ICON            IDI_LIGHT,IDC_STATIC_LIGHT,20,43,20,20,SS_REALSIZEIMAGE,
+                    WS_EX_TRANSPARENT
+    CONTROL         IDI_MYCOMPUTER,IDC_STATIC,"Static",SS_BITMAP,10,8,17,19
+    LTEXT           "您知道吗...",IDC_STATIC_DOYOUKNOW,50,48,78,8,0,
+                    WS_EX_TRANSPARENT
+    LTEXT           "",IDC_STATIC_TIPS,50,67,152,40,0,WS_EX_TRANSPARENT
+    LTEXT           "网络神偷小技巧",IDC_STATIC,33,14,57,8
+    LTEXT           "",IDC_STATIC_BACKGROUND,10,30,220,95,SS_SUNKEN | NOT 
+                    WS_GROUP
+END
+
+IDD_TOOLBARRUN DIALOG DISCARDABLE  0, 0, 263, 119
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "高级运行方式 - 本地运行"
+FONT 9, "宋体"
+BEGIN
+    LTEXT           "程序(&F):",IDC_STATIC,50,16,33,8
+    EDITTEXT        IDC_EDIT1,50,26,158,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "浏览(&B)",IDC_BUTTON1,211,25,33,16
+    LTEXT           "参数(&P):",IDC_STATIC,50,52,33,8
+    EDITTEXT        IDC_EDIT2,50,61,158,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "浏览(&R)",IDC_BUTTON2,211,60,33,16
+    DEFPUSHBUTTON   "确定(&O)",IDOK,62,96,44,17
+    PUSHBUTTON      "取消(&C)",IDCANCEL,156,96,44,17
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDFRAME,8,8,248,80
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,47,47,202,1
+    ICON            IDI_PROGRAM,IDC_STATIC,18,21,20,20
+    ICON            IDI_PARAMETER,IDC_STATIC,18,56,20,20
+END
+
+IDD_TOOLBARFINDFILE DIALOG DISCARDABLE  0, 0, 183, 95
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "查找文件"
+FONT 9, "宋体"
+BEGIN
+    LTEXT           "名称(&N):",IDC_STATIC,50,16,33,8
+    EDITTEXT        IDC_EDIT1,50,26,113,14,ES_AUTOHSCROLL
+    CONTROL         "包含子文件夹(&S)",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,50,44,76,10
+    DEFPUSHBUTTON   "确定(&O)",IDOK,32,71,44,17
+    PUSHBUTTON      "取消(&C)",IDCANCEL,106,71,44,17
+    ICON            IDI_FINDFILE,IDC_STATIC,18,21,20,20
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDFRAME,8,8,167,54
+END
+
+IDD_TOOLBARPROPERTY_SINGLE DIALOG DISCARDABLE  0, 0, 250, 215
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "文件属性"
+FONT 9, "宋体"
+BEGIN
+    DEFPUSHBUTTON   "确定(&O)",IDOK,136,196,50,14
+    PUSHBUTTON      "取消(&C)",IDCANCEL,192,196,50,14
+    EDITTEXT        IDC_EDIT_FILENAME,63,9,169,24,ES_MULTILINE | 
+                    ES_AUTOVSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "Static",IDC_STATIC_HOSTNAME,63,45,167,8
+    LTEXT           "Static",IDC_STATIC_SIZE,63,59,167,8
+    LTEXT           "Static",IDC_STATIC_TYPE,63,73,167,8
+    LTEXT           "Static",IDC_STATIC_CTIME,63,99,167,8
+    LTEXT           "Static",IDC_STATIC_MTIME,63,113,167,8
+    LTEXT           "Static",IDC_STATIC_ATIME,63,127,167,8
+    CONTROL         "只读(&R)",IDC_CHECK_READONLY,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,63,153,40,10
+    CONTROL         "隐藏(&H)",IDC_CHECK_HIDE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,114,153,40,10
+    CONTROL         "存档(&A)",IDC_CHECK_ARCHIVE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,63,165,40,10
+    CONTROL         "系统(&S)",IDC_CHECK_SYSTEM,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,114,165,40,10
+    LTEXT           "所在主机:",IDC_STATIC,13,45,37,8
+    LTEXT           "文件大小:",IDC_STATIC,13,59,37,8
+    LTEXT           "数据类型:",IDC_STATIC,13,73,37,8
+    LTEXT           "创建时间: ",IDC_STATIC,13,99,38,8
+    LTEXT           "修改时间: ",IDC_STATIC,13,113,38,8
+    LTEXT           "访问时间: ",IDC_STATIC,13,127,38,8
+    LTEXT           "文件属性: ",IDC_STATIC,13,153,41,8
+    ICON            "",IDC_STATIC_ICON,13,9,20,20
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,8,89,234,1
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,8,143,234,1
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,8,36,234,1
+END
+
+IDD_TOOLBARPROPERTY_MULTI DIALOG DISCARDABLE  0, 0, 250, 109
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "文件及文件夹属性"
+FONT 9, "宋体"
+BEGIN
+    DEFPUSHBUTTON   "确定(&O)",IDOK,192,89,50,14
+    LTEXT           "Static",IDC_STATIC_SIZE,63,59,167,8
+    LTEXT           "所在主机:",-1,13,45,37,8
+    LTEXT           "总共大小:",-1,13,59,37,8
+    ICON            IDI_PROPERTY,-1,13,9,20,20
+    CONTROL         "",-1,"Static",SS_ETCHEDHORZ,8,36,234,1
+    LTEXT           "Static",IDC_STATIC_STATISTIC,63,15,167,8
+    LTEXT           "Static",IDC_STATIC_HOSTNAME,63,45,167,8
+END
+
+IDD_TOOLBARPROPERTY_DISKDRIVE DIALOGEX 0, 0, 250, 171
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "驱动器属性"
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    LTEXT           "卷宗名称(&L):",IDC_STATIC,63,9,49,8
+    EDITTEXT        IDC_EDIT1,116,6,48,14
+    DEFPUSHBUTTON   "确定(&O)",IDOK,136,152,50,14
+    PUSHBUTTON      "取消(&C)",IDCANCEL,192,152,50,14
+    LTEXT           "Static",IDC_STATIC_TYPE,63,60,167,8
+    LTEXT           "驱动器类型:",IDC_STATIC,13,60,45,8
+    ICON            "",IDC_STATIC_ICON,13,9,20,20
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,8,76,234,1
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,8,115,196,1
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,8,36,234,1
+    LTEXT           "卷宗序列号:",IDC_STATIC,63,23,45,8
+    LTEXT           "Static",IDC_STATIC_SERIALNUMBER,116,23,106,8
+    LTEXT           "已用空间:",IDC_STATIC,13,89,37,8
+    LTEXT           "Static",IDC_STATIC_USED,63,89,86,8,0,WS_EX_RIGHT
+    LTEXT           "Static",IDC_STATIC_USED_PERCENT,170,89,25,8,0,
+                    WS_EX_RIGHT
+    LTEXT           "可用空间:",IDC_STATIC,13,104,37,8
+    LTEXT           "Static",IDC_STATIC_UNUSED,63,104,86,8,0,WS_EX_RIGHT
+    LTEXT           "Static",IDC_STATIC_UNUSED_PERCENT,170,104,25,8,0,
+                    WS_EX_RIGHT
+    LTEXT           "总共空间:",IDC_STATIC,13,121,37,8
+    LTEXT           "Static",IDC_STATIC_TOTAL,63,121,86,8,0,WS_EX_RIGHT
+    LTEXT           "100.0%",IDC_STATIC_TOTAL_PERCENT,170,121,25,8,0,
+                    WS_EX_RIGHT
+    LTEXT           "Static",IDC_STATIC_HOSTNAME,63,45,167,8
+    LTEXT           "所在主机:",IDC_STATIC,13,45,37,8
+END
+
+IDD_WIZARD2 DIALOG DISCARDABLE  0, 0, 317, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "网络神偷 设置向导"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         169,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE | 
+                    SS_SUNKEN,0,0,81,177
+    LTEXT           "FTP服务器设置",IDC_STATIC,92,0,77,8,NOT WS_GROUP
+    LTEXT           "请根据你的主页空间设置，填写以下的内容，确定填写无误后，单击“下一步”继续。",
+                    IDC_STATIC,92,19,208,16,NOT WS_GROUP
+    LTEXT           "FTP服务器的域名或IP地址(&A):",IDC_STATIC,92,44,108,8
+    EDITTEXT        IDC_EDIT_ADDRESS,92,53,205,14,ES_AUTOHSCROLL
+    LTEXT           "(可从主页空间提供商的网站查到)",IDC_STATIC,92,69,121,8
+    LTEXT           "主页空间的用户名(&U):",IDC_STATIC,92,82,80,8
+    EDITTEXT        IDC_EDIT_USERNAME,92,91,205,14,ES_AUTOHSCROLL
+    LTEXT           "(就是你在主页空间提供商那里注册的用户名)",IDC_STATIC,92,
+                    107,161,8
+    LTEXT           "主页空间的密码(&P):",IDC_STATIC,92,120,72,8
+    EDITTEXT        IDC_EDIT_PASSWORD,92,129,205,14,ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+    LTEXT           "(就是你设置的密码)",IDC_STATIC,92,145,73,8
+    LTEXT           "你的主页空间的网址(&H):",IDC_STATIC,92,158,108,8
+    EDITTEXT        IDC_EDIT_HOMEPAGE,92,167,205,14
+    LTEXT           "(如:“http://用户名.51.net”，也可从提供商的网站查到)",
+                    IDC_STATIC,92,183,213,8
+END
+
+IDD_WIZARD1 DIALOG DISCARDABLE  0, 0, 317, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "网络神偷 设置向导"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         169,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE | 
+                    SS_SUNKEN,0,0,81,192
+    LTEXT           "开始设置！",IDC_STATIC,92,0,40,8,NOT WS_GROUP
+    LTEXT           "欢迎使用“网络神偷 - 远程文件访问工具”，网络神偷利用支持FTP方式登录的主页空间实现了与服务端的反弹端口连接，因此可以穿过防火墙，甚至还能访问局域网内部的电脑。本软件使用前，使用者需要先拥有主页空间，并对软件进行必要的设置。",
+                    IDC_STATIC,92,27,200,40,NOT WS_GROUP
+    LTEXT           "如果你还没有主页空间，请先申请一个(申请方法请看 Readme.txt)，如果已有主页空间可以继续下一步。",
+                    IDC_STATIC,92,80,200,16,NOT WS_GROUP
+    LTEXT           "单击“下一步”继续，单击“取消”稍后设置。",IDC_STATIC,
+                    92,143,168,8,NOT WS_GROUP
+    LTEXT           "注：请你在使用软件前，务必认真阅读 Readme.txt 文档",
+                    IDC_STATIC,92,109,201,8
+END
+
+IDD_WIZARD4 DIALOG DISCARDABLE  0, 0, 317, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "网络神偷 设置向导"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         169,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE | 
+                    SS_SUNKEN,0,0,81,177
+    LTEXT           "其它设置",IDC_STATIC,92,0,48,8,NOT WS_GROUP
+    LTEXT           "请填写以下的设置内容，确定填写无误后，单击“下一步”继续。",
+                    IDC_STATIC,92,19,208,16,NOT WS_GROUP
+    LTEXT           "数据加密密码(&P):",IDC_STATIC,92,44,64,8
+    EDITTEXT        IDC_EDIT_PASSWORD,92,53,205,14,ES_PASSWORD
+    LTEXT           "(用于加密数据的密码，可以任意设置)",IDC_STATIC,92,69,
+                    137,8
+    LTEXT           "再次确认(&A):",IDC_STATIC,92,82,64,8
+    EDITTEXT        IDC_EDIT_PASSWORD2,92,91,205,14,ES_PASSWORD
+    LTEXT           "(再次确认一回)",IDC_STATIC,92,107,57,8
+END
+
+IDD_WIZARD5 DIALOG DISCARDABLE  0, 0, 317, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "网络神偷 设置向导"
+FONT 9, "宋体"
+BEGIN
+    PUSHBUTTON      "开始测试(&T)",IDC_BUTTON_TEST,247,89,53,17
+    EDITTEXT        IDC_EDIT_TEST,92,53,145,138,ES_MULTILINE | 
+                    ES_AUTOVSCROLL | ES_READONLY
+    CONTROL         169,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE | 
+                    SS_SUNKEN,0,0,79,173
+    LTEXT           "测试主页空间",IDC_STATIC,92,0,48,8,NOT WS_GROUP
+    LTEXT           "单击“开始测试”测试主页空间是否工作正常，单击“上一步”修改设置内容，单击“下一步”跳过测试。",
+                    IDC_STATIC,92,19,208,16,NOT WS_GROUP
+    LTEXT           "测试结果:",IDC_STATIC,92,44,37,8
+END
+
+IDD_TOOLBARBUILDSERVER DIALOG DISCARDABLE  0, 0, 263, 223
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "生成服务端程序"
+FONT 9, "宋体"
+BEGIN
+    LTEXT           "注册表启动项键名(&K):",IDC_STATIC,50,28,81,8
+    EDITTEXT        IDC_EDIT_KEYNAME,135,25,105,14
+    LTEXT           "服务端程序文件名(&F):",IDC_STATIC,50,62,81,8
+    EDITTEXT        IDC_EDIT_FILENAME,135,59,105,14
+    LTEXT           "服务端注释内容为(&N):",IDC_STATIC,50,111,81,8
+    EDITTEXT        IDC_EDIT_NOTE,135,108,105,14
+    LTEXT           "服务端程序保存为(&S):",IDC_STATIC,50,155,81,8
+    EDITTEXT        IDC_EDIT_SERVERFILENAME,50,165,158,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "浏览(&B)",IDC_BUTTON_BROWSE,211,164,33,16
+    DEFPUSHBUTTON   "生成(&U)",IDC_BUTTON_BUILD,58,199,44,17
+    PUSHBUTTON      "关闭(&C)",IDOK,160,199,44,17
+    GROUPBOX        "文件输出",IDC_STATIC,8,140,247,50
+    ICON            IDI_EXPORT,IDC_STATIC,18,157,20,20
+    GROUPBOX        "自启动设置",IDC_STATIC,8,7,247,77
+    ICON            IDI_KEYNAME,IDC_STATIC,18,21,20,20
+    ICON            IDI_FILENAME,IDC_STATIC,18,55,20,20
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,17,48,229,1
+    GROUPBOX        "注释设置",IDC_STATIC,8,91,247,42
+    ICON            IDI_NOTE,IDC_STATIC,18,104,20,20
+END
+
+IDD_HELPUPDATE DIALOGEX 0, 0, 283, 125
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "在线升级"
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    GROUPBOX        "最新版本信息",IDC_STATIC,8,7,129,52
+    LTEXT           "版本:",IDC_STATIC,18,24,21,8
+    LTEXT           "",IDC_STATIC_NEWVERSION,41,22,84,11,SS_CENTERIMAGE,
+                    WS_EX_STATICEDGE
+    LTEXT           "日期:",IDC_STATIC,18,39,21,8
+    LTEXT           "",IDC_STATIC_NEWDATE,41,37,84,11,SS_CENTERIMAGE,
+                    WS_EX_STATICEDGE
+    GROUPBOX        "本软件版本信息",IDC_STATIC,146,7,129,52
+    LTEXT           "版本:",IDC_STATIC,156,24,21,8
+    LTEXT           "",IDC_STATIC_VERSION,179,22,84,11,SS_CENTERIMAGE,
+                    WS_EX_STATICEDGE
+    LTEXT           "日期:",IDC_STATIC,156,39,21,8
+    LTEXT           "",IDC_STATIC_DATE,179,37,84,11,SS_CENTERIMAGE,
+                    WS_EX_STATICEDGE
+    GROUPBOX        "说明",IDC_STATIC,8,64,267,29
+    LTEXT           "未连接到 Internet，无法从网上下载最新版本信息，请在上线后再试。",
+                    IDC_STATIC_NOTE,18,77,252,8
+    DEFPUSHBUTTON   "在线升级(&U)",IDC_BUTTON1,70,102,55,17
+    PUSHBUTTON      "关闭(&C)",IDOK,169,102,44,17
+END
+
+IDD_TOOLBARRUN_REMOTE DIALOG DISCARDABLE  0, 0, 150, 111
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "高级运行方式 - 远程运行"
+FONT 9, "宋体"
+BEGIN
+    EDITTEXT        IDC_EDIT1,50,25,79,14,ES_AUTOHSCROLL
+    COMBOBOX        IDC_COMBO1,50,55,79,54,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    DEFPUSHBUTTON   "确定(&O)",IDOK,20,88,44,17
+    PUSHBUTTON      "取消(&C)",IDCANCEL,85,88,44,17
+    LTEXT           "参数(&P):",IDC_STATIC,50,15,33,8
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDFRAME,8,8,134,71
+    ICON            IDI_PARAMETER,IDC_STATIC,18,20,20,20
+    ICON            IDI_MODE,IDC_STATIC,18,49,20,20
+    LTEXT           "运行方式(&M):",IDC_STATIC,50,45,49,8
+END
+
+IDD_TOOLBARFINDFILE_RESULT DIALOG DISCARDABLE  0, 0, 348, 289
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "查找文件结果"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "List1",IDC_LIST1,"SysListView32",LVS_REPORT | 
+                    LVS_SORTASCENDING | LVS_SHAREIMAGELISTS | WS_BORDER | 
+                    WS_TABSTOP,7,7,333,274
+END
+
+IDD_OPTION DIALOG DISCARDABLE  0, 0, 263, 137
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "选项"
+FONT 9, "宋体"
+BEGIN
+    GROUPBOX        "自定义查看程序",IDC_STATIC,8,7,247,50
+    ICON            IDI_VIEW,IDC_STATIC,18,24,20,20
+    LTEXT           "查看程序为(&V):",IDC_STATIC,50,22,57,8
+    EDITTEXT        IDC_EDIT_VIEWERFILENAME,50,32,158,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "浏览(&B)",IDC_BUTTON_BROWSE,211,31,33,16
+    GROUPBOX        "IP地址设置",IDC_STATIC,8,64,247,40
+    ICON            IDI_ADAPTER,IDC_STATIC,18,76,20,20
+    CONTROL         "下一次登录时，当检测到本机配置有多个IP地址时，提示用户选择(&S)。",
+                    IDC_CHECK_SELECTIP,"Button",BS_AUTOCHECKBOX | 
+                    BS_MULTILINE | WS_TABSTOP,50,79,197,17
+    DEFPUSHBUTTON   "确定(&O)",IDOK,58,113,44,17
+    PUSHBUTTON      "取消(&C)",IDCANCEL,160,113,44,17
+END
+
+IDD_EASTEREGG DIALOGEX 0, 0, 122, 115
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "软件作者小档案"
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    LTEXT           "Static",IDC_STATIC1,3,4,115,107,0,WS_EX_CLIENTEDGE
+END
+
+IDD_COMMUNITY DIALOGEX 0, 0, 520, 315
+STYLE WS_CHILD
+EXSTYLE WS_EX_TOOLWINDOW
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT_CALLBOARD,201,25,302,41,ES_MULTILINE | 
+                    ES_AUTOVSCROLL | ES_READONLY | ES_WANTRETURN | NOT 
+                    WS_BORDER | WS_VSCROLL,WS_EX_STATICEDGE
+    CONTROL         "List1",IDC_LIST1,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | WS_TABSTOP,16,100,487,207,
+                    WS_EX_CLIENTEDGE
+    LTEXT           "",IDC_STATIC_HOSTNAME,55,25,120,11,SS_CENTERIMAGE,
+                    WS_EX_STATICEDGE
+    LTEXT           "",IDC_STATIC_IPADDRESS,55,40,120,11,SS_CENTERIMAGE,
+                    WS_EX_STATICEDGE
+    LTEXT           "",IDC_STATIC_POSITION,55,55,120,11,SS_CENTERIMAGE,
+                    WS_EX_STATICEDGE
+    GROUPBOX        "公告板",IDC_STATIC,192,11,320,64
+    GROUPBOX        "服务端在线列表",IDC_STATIC,8,82,504,233
+    GROUPBOX        "客户端信息",IDC_STATIC,8,11,176,64
+    LTEXT           "主机名:",IDC_STATIC,16,27,29,8
+    LTEXT           "IP地址:",IDC_STATIC,16,42,29,8
+    LTEXT           "地理位置:",IDC_STATIC,16,57,37,8
+    LTEXT           "",IDC_STATIC_ONLINENUM,465,90,25,9,SS_CENTERIMAGE,
+                    WS_EX_TRANSPARENT | WS_EX_RIGHT | WS_EX_STATICEDGE
+    LTEXT           "[在线人数:",IDC_STATIC,423,91,40,8
+    LTEXT           "]",IDC_STATIC,493,91,8,8
+    RTEXT           "[“网络神偷”聊天室现有  人]",IDC_STATIC_CHATROOM,291,
+                    91,124,8,SS_NOTIFY
+    CONTROL         216,IDC_STATIC,"Static",SS_BITMAP,122,89,11,11
+    CONTROL         217,IDC_STATIC,"Static",SS_BITMAP,172,89,11,11
+    LTEXT           "[图例:",IDC_STATIC,96,91,25,8
+    LTEXT           "普通主机",IDC_STATIC,134,91,33,8
+    LTEXT           "应用“HTTP隧道技术”的主机]",IDC_STATIC,184,91,109,8
+END
+
+IDD_WIZARD3 DIALOG DISCARDABLE  0, 0, 317, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "网络神偷 设置向导"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         169,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE | 
+                    SS_SUNKEN,0,0,81,177
+    LTEXT           "主页空间设置 - 1",IDC_STATIC,92,0,65,8,NOT WS_GROUP
+    LTEXT           "请填写以下的个性化设置，它们将确定如何组织主页空间的文件，确定填写无误后，单击“下一步”继续。",
+                    IDC_STATIC,92,19,208,16,NOT WS_GROUP
+    LTEXT           "本软件在主页空间上生成的临时文件保存在(&P):",IDC_STATIC,
+                    92,44,169,8
+    EDITTEXT        IDC_EDIT_PATH,92,53,205,14
+    LTEXT           "(如:“.”“./a”“./a/b”，“.”表示主页空间根目录)",
+                    IDC_STATIC,92,69,205,8
+    LTEXT           "主页空间 临时文件1 的文件名(&F):",IDC_STATIC,92,82,125,
+                    8
+    EDITTEXT        IDC_EDIT_FILENAME1,92,91,205,14
+    LTEXT           "(此文件用于服务端上线通知)",IDC_STATIC,92,107,105,8
+    LTEXT           "主页空间 临时文件2 的文件名(&S):",IDC_STATIC,92,120,125,
+                    8
+    EDITTEXT        IDC_EDIT_FILENAME2,92,129,205,14
+    LTEXT           "(此文件用于与服务端建立连接)",IDC_STATIC,92,145,113,8
+    LTEXT           "主页空间 临时文件3 的文件名(&T):",IDC_STATIC,92,158,125,
+                    8
+    EDITTEXT        IDC_EDIT_FILENAME3,92,167,205,14
+    LTEXT           "(此文件用于保持FTP登录状态)",IDC_STATIC,92,183,109,8
+END
+
+IDD_SELECTIP DIALOG DISCARDABLE  0, 0, 203, 121
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "选择 IP 地址"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDI_SELECTIP,IDC_STATIC,8,9,20,20
+    LTEXT           "本软件检测到您的系统配置了多个IP地址，请指定网络神偷客户端使用的IP地址:",
+                    IDC_STATIC,35,8,160,16
+    LTEXT           "IP地址列表(&L):",IDC_STATIC,35,31,57,8
+    COMBOBOX        IDC_COMBO1,98,29,79,70,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    GROUPBOX        "说明",IDC_STATIC,8,51,187,41
+    LTEXT           "请指定本机的互联网IP地址。如果指定的是本机的局域网IP地址，网络神偷就只能访问本局域网内的服务端。",
+                    IDC_STATIC,18,63,168,24
+    DEFPUSHBUTTON   "确定(&O)",IDOK,76,100,52,15
+END
+
+IDD_WIZARD6 DIALOG DISCARDABLE  0, 0, 317, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "网络神偷 设置向导"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         169,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE | 
+                    SS_SUNKEN,0,0,79,173
+    LTEXT           "设置完成",IDC_STATIC,92,0,32,8,NOT WS_GROUP
+    LTEXT           "祝贺你！你已经成功的完成了网络神偷的设置，你可以尽情的使用本软件的各种强大功能了。",
+                    IDC_STATIC,92,27,200,16,NOT WS_GROUP
+    LTEXT           "单击“完成”关闭本向导。",IDC_STATIC,92,126,200,8,NOT 
+                    WS_GROUP
+END
+
+IDD_SELECTFILEOPERATION DIALOG DISCARDABLE  0, 0, 275, 145
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "选择文件操作"
+FONT 9, "宋体"
+BEGIN
+    DEFPUSHBUTTON   "覆盖(&O)",IDC_BUTTON_OVERLAY,39,122,51,15
+    PUSHBUTTON      "断点续传(&T)",IDC_BUTTON_CONTINUE,112,122,51,15
+    PUSHBUTTON      "取消(&C)",IDCANCEL,185,122,51,15
+    ICON            IDI_SELECTFILEOPERATION,IDC_STATIC,10,10,20,20
+    LTEXT           "此文件夹已包括一个名为“Notepad.exe”的文件。",
+                    IDC_STATIC_FILENAME,42,10,220,16
+    LTEXT           "源文件:",IDC_STATIC,42,30,29,8
+    ICON            "",IDC_STATIC_SOURCEICON,51,40,20,20
+    LTEXT           "1.16 MB\r\n修改时间: 2001年11月10日, 1:11:14",
+                    IDC_STATIC_SOURCEFILEINFO,80,43,150,15
+    LTEXT           "目的文件:",IDC_STATIC,42,65,37,8
+    ICON            "",IDC_STATIC_DESTICON,51,75,20,20
+    LTEXT           "1.16 MB\r\n修改时间: 2001年11月10日, 1:11:14",
+                    IDC_STATIC_DESTFILEINFO,80,78,150,15
+    LTEXT           "你想进行何种操作？",IDC_STATIC,42,104,73,8
+END
+
+IDD_REMARK DIALOG DISCARDABLE  0, 0, 148, 123
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "修改备注"
+FONT 9, "宋体"
+BEGIN
+    LTEXT           "备注(&M):",IDC_STATIC,8,5,33,8
+    EDITTEXT        IDC_EDIT,8,15,132,76,ES_MULTILINE | ES_AUTOVSCROLL
+    DEFPUSHBUTTON   "确定(&O)",IDOK,19,100,44,17
+    PUSHBUTTON      "取消(&C)",IDCANCEL,84,100,44,17
+END
+
+IDD_WIZARD31 DIALOG DISCARDABLE  0, 0, 317, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "网络神偷 设置向导"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         169,-1,"Static",SS_BITMAP | SS_REALSIZEIMAGE | SS_SUNKEN,
+                    0,0,81,177
+    LTEXT           "主页空间设置 - 2",-1,92,0,65,8,NOT WS_GROUP
+    LTEXT           "请填写以下的个性化设置，它们将确定如何组织主页空间的文件，确定填写无误后，单击“下一步”继续。",
+                    -1,92,19,208,16,NOT WS_GROUP
+    LTEXT           "主页空间 临时文件4 的文件名(&F):",-1,92,44,125,8
+    EDITTEXT        IDC_EDIT_FILENAME4,92,53,205,14
+    LTEXT           "(此文件用于服务端自动下载并运行程序)",-1,92,69,145,8
+END
+
+IDD_DOWNLOAD DIALOG DISCARDABLE  0, 0, 261, 143
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "服务端自动下载运行程序设置"
+FONT 9, "宋体"
+BEGIN
+    GROUPBOX        "URL设置",IDC_STATIC,8,7,245,48
+    ICON            IDI_URL,IDC_STATIC,18,24,20,20
+    LTEXT           "服务端自动从以下URL下载程序并运行(&U):",IDC_STATIC,48,
+                    21,149,8
+    EDITTEXT        IDC_EDIT_URL,48,31,192,14,ES_AUTOHSCROLL
+    GROUPBOX        "程序设置",IDC_STATIC,8,61,245,48
+    ICON            IDI_PROGRAM,IDC_STATIC,18,77,20,20
+    LTEXT           "请指定服务端要下载的程序(&F):",IDC_STATIC,48,75,113,8
+    EDITTEXT        IDC_EDIT_FILENAME,48,85,158,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "浏览(&B)",IDC_BUTTON_BROWSE,210,84,33,16
+    DEFPUSHBUTTON   "更新设置(&O)",IDC_BUTTON_UPDATE,57,118,55,17
+    PUSHBUTTON      "关闭(&C)",IDOK,159,118,44,17
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "Nethief 应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "Nethief\0"
+            VALUE "LegalCopyright", "版权所有(C) 1900\0"
+            VALUE "OriginalFilename", "Nethief.EXE\0"
+            VALUE "ProductName", "Nethief 应用程序\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 202
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 132
+    END
+
+    IDD_SPLASH, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 330
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 138
+    END
+
+    IDD_TOOLBARRUN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 256
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 112
+    END
+
+    IDD_TOOLBARFINDFILE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 176
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 88
+    END
+
+    IDD_TOOLBARPROPERTY_SINGLE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 208
+    END
+
+    IDD_TOOLBARPROPERTY_MULTI, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 102
+    END
+
+    IDD_TOOLBARPROPERTY_DISKDRIVE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 164
+    END
+
+    IDD_WIZARD2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 310
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+    END
+
+    IDD_WIZARD1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 310
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+    END
+
+    IDD_WIZARD4, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 310
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+    END
+
+    IDD_WIZARD5, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 310
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+    END
+
+    IDD_TOOLBARBUILDSERVER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 256
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 216
+    END
+
+    IDD_HELPUPDATE, DIALOG
+    BEGIN
+        LEFTMARGIN, 8
+        RIGHTMARGIN, 276
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 118
+    END
+
+    IDD_TOOLBARRUN_REMOTE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 143
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 104
+    END
+
+    IDD_TOOLBARFINDFILE_RESULT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 341
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 282
+    END
+
+    IDD_OPTION, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 256
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 130
+    END
+
+    IDD_EASTEREGG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 115
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 108
+    END
+
+    IDD_COMMUNITY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 513
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 308
+    END
+
+    IDD_WIZARD3, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 310
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+    END
+
+    IDD_SELECTIP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 196
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 114
+    END
+
+    IDD_WIZARD6, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 310
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+    END
+
+    IDD_SELECTFILEOPERATION, DIALOG
+    BEGIN
+        HORZGUIDE, 110
+    END
+
+    IDD_REMARK, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 141
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 116
+    END
+
+    IDD_WIZARD31, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 310
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+    END
+
+    IDD_DOWNLOAD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 254
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 136
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_CURSOR_HAND         CURSOR  DISCARDABLE     "res\\hand.cur"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDR_ONLINE              WAVE    DISCARDABLE     "res\\online.wav"
+IDR_GLOBAL              WAVE    DISCARDABLE     "res\\global.wav"
+IDR_SYSTEM              WAVE    DISCARDABLE     "res\\system.wav"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_TOOLBARRUN_REMOTE DLGINIT
+BEGIN
+    IDC_COMBO1, 0x403, 5, 0
+0xfdd5, 0xa3b3, "\000" 
+    IDC_COMBO1, 0x403, 5, 0
+0xfed2, 0xd8b2, "\000" 
+    IDC_COMBO1, 0x403, 7, 0
+0xeed7, 0xf3b4, 0xafbb, "\000" 
+    IDC_COMBO1, 0x403, 7, 0
+0xeed7, 0xa1d0, 0xafbb, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDP_SOCKETS_INIT_FAILED "Windows 通信端口初始化失败。"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "Nethief\n\nNethie\n\n\nNethief.Document\nNethie Document"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "Nethief"
+    AFX_IDS_IDLEMESSAGE     " "
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_EXT        "扩展名"
+    ID_INDICATOR_CAPS       "大写"
+    ID_INDICATOR_NUM        "数字"
+    ID_INDICATOR_SCRL       "滚动"
+    ID_INDICATOR_OVR        "改写"
+    ID_INDICATOR_REC        "记录"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_APP_ABOUT            "显示程序信息，版本号和版权\n关于"
+    ID_APP_EXIT             "退出应用程序\n退出"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_NEXT_PANE            "切换到下一个窗格\n下一窗格"
+    ID_PREV_PANE            "切换回前一个窗格\n前一窗格"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_WINDOW_SPLIT         "将活动的窗口分隔成窗格\n分隔"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_EDIT_CLEAR           "删除被选对象\n删除"
+    ID_EDIT_CLEAR_ALL       "全部删除\n全部删除"
+    ID_EDIT_COPY            "复制被选对象并将其置于剪贴板上\n复制"
+    ID_EDIT_CUT             "剪切被选对象并将其置于剪贴板上\n剪切"
+    ID_EDIT_FIND            "查找指定的正文\n查找"
+    ID_EDIT_PASTE           "插入剪贴板内容\n粘贴"
+    ID_EDIT_REPEAT          "重复上一步操作\n重复"
+    ID_EDIT_REPLACE         "用不同的正文替换指定的正文\n替换"
+    ID_EDIT_SELECT_ALL      "选择整个文档\n选择全部"
+    ID_EDIT_UNDO            "撤消最后一步操作\n撤消"
+    ID_EDIT_REDO            "重新执行先前已撤消的操作\n重新执行"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_VIEW_TOOLBAR         "显示或隐藏工具栏\n显隐工具栏"
+    ID_VIEW_STATUS_BAR      "显示或隐藏状态栏\n显隐状态栏"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "改变窗口大小"
+    AFX_IDS_SCMOVE          "改变窗口位置"
+    AFX_IDS_SCMINIMIZE      "将窗口缩小成图标"
+    AFX_IDS_SCMAXIMIZE      "把窗口放大到最大尺寸"
+    AFX_IDS_SCNEXTWINDOW    "切换到下一个文档窗口"
+    AFX_IDS_SCPREVWINDOW    "切换到先前的文档窗口"
+    AFX_IDS_SCCLOSE         "关闭活动的窗口并提示保存所有文档"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "把窗口恢复到正常大小"
+    AFX_IDS_SCTASKLIST      "激活任务表"
+    ID_INDICATOR_PROGRESS   "状态栏进度条"
+    ID_INDICATOR_OFFLINE    "离线状态"
+    ID_INDICATOR_BUSY       "操作中"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_HELP_TIPOFTHEDAY     "每天多知道一些小技巧\n每日一帖"
+    ID_TOOLBAR_FILEMANAGER  "切换到文件管理器的操作界面\n文件管理器(Alt+Q)"
+    ID_TOOLBAR_COMMUNITY    "切换到IP地址通知器的操作界面\nIP地址通知器(Alt+Q)"
+    ID_TOOLBAR_BACK         "返回到上一级文件夹\n向上一级(Backspace)"
+    ID_TOOLBAR_REFRESH      "刷新当前显示的内容\n刷新(F5)"
+    ID_TOOLBAR_FINDFILE     "查找所选文件夹下的指定文件\n查找(F3)"
+    ID_TOOLBAR_CUT          "删除所选项目并将它们复制到剪贴板上\n剪贴(Ctrl+X)"
+    ID_TOOLBAR_COPY         "将所选项目复制到剪贴板\n复制(Ctrl+C)"
+    ID_TOOLBAR_PASTE        "将复制或者剪贴的项目插入到选择的位置\n粘贴(Ctrl+V)"
+    ID_TOOLBAR_VIEW         "用自定义软件查看所选文件的内容\n查看(Ctrl+I)"
+    ID_TOOLBAR_DELETE       "删除所选项目\n删除(Del)"
+    ID_TOOLBAR_PROPERTY     "显示所选项目的属性\n属性(Alt+Enter)"
+    ID_TOOLBAR_NEWFILE      "在当前目录下建立一个新文件\n新建文件(Ctrl+N)"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_TOOLBAR_BUILDSERVER  "设置并生成服务端程序\n生成服务端(F7)"
+    ID_HELP_README          "显示软件说明 Readme.txt"
+    ID_HELP_HOMEPAGE        "访问软件作者的主页"
+    ID_HELP_EMAIL           "给软件作者发 E-mail"
+    ID_HELP_UPDATE          "查看当前最新版本的情况，并可进行在线升级"
+    ID_TOOLBAR_DISCONNECT   "断开与所选主机的连接\n断开连接(Ctrl+D)"
+    ID_TOOLBAR_STOP         "停止当前正在进行的工作\n停止工作(F6)"
+    ID_MENU_NET_OPTION      "更改设置选项"
+    ID_MENU_NET_UNINSTALL   "远程卸载所选主机的服务端程序"
+    ID_MENU_NET_NOTE        "查看所选主机的服务端注释"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_TOOLBAR_NEWFOLDER    "在当前目录下建立一个新文件夹\n新建文件夹(Ctrl+E)"
+    ID_TOOLBAR_RUN          "带参数运行、远程运行等高级运行方式\n高级运行(Ctrl+R)"
+    ID_MENU_FILE_RUN        "运行或者找开所选文件"
+    ID_MENU_FILE_RENAME     "重命名所选项目"
+    ID_MENU_CONSOLE_TAB     "切换到相应界面"
+    ID_TOOLBAR_SELECTALL    "选定窗口中的所有项目"
+    ID_TOOLBAR_REVERSESELECT "反转所选项目和未选项目"
+    ID_MENU_CONSOLE_LOGON   "注销当前设置，使软件恢复到初始状态"
+    ID_TOOLBAR_DELETEHOST   "从文件管理器中删除所选主机\n删除主机(Del)"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_MENU_NET_DOWNLOAD    "更改服务端自动下载运行程序设置"
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif
+#include "res\Nethief.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

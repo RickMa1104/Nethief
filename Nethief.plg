@@ -1,0 +1,211 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Nethief - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Nethief.res" /d "_DEBUG" /d "_AFXDLL" "D:\Temp\NewXing.com\Nethief\Nethief.rc"" 
+Creating temporary file "C:\DOCUME~1\shanshui\LOCALS~1\Temp\RSP8E.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /FR"Debug/" /Fp"Debug/Nethief.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /c 
+"D:\Temp\NewXing.com\Nethief\ColorStatic.cpp"
+"D:\Temp\NewXing.com\Nethief\Community.cpp"
+"D:\Temp\NewXing.com\Nethief\DownloadDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\EasterEggDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\FileSocket.cpp"
+"D:\Temp\NewXing.com\Nethief\HelpUpdateDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\IPToLocal.cpp"
+"D:\Temp\NewXing.com\Nethief\LinkStatic.cpp"
+"D:\Temp\NewXing.com\Nethief\MainFrm.cpp"
+"D:\Temp\NewXing.com\Nethief\Md5.cpp"
+"D:\Temp\NewXing.com\Nethief\MyFormView.cpp"
+"D:\Temp\NewXing.com\Nethief\MyListView.cpp"
+"D:\Temp\NewXing.com\Nethief\MySplitterWnd.cpp"
+"D:\Temp\NewXing.com\Nethief\MyTreeView.cpp"
+"D:\Temp\NewXing.com\Nethief\Nethief.cpp"
+"D:\Temp\NewXing.com\Nethief\NethiefDoc.cpp"
+"D:\Temp\NewXing.com\Nethief\OptionDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\RemarkDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\SelectFileOperationDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\SelectIPDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\SplashDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\TipOfTheDayDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\ToolBarBuildServerDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\ToolBarFindFileDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\ToolBarFindFileResultDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\ToolBarPropertyDiskdriveDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\ToolBarPropertyMultiDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\ToolBarPropertySingleDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\ToolBarRunDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\ToolBarRunRemoteDlg.cpp"
+"D:\Temp\NewXing.com\Nethief\WizardPage1.cpp"
+"D:\Temp\NewXing.com\Nethief\WizardPage2.cpp"
+"D:\Temp\NewXing.com\Nethief\WizardPage3.cpp"
+"D:\Temp\NewXing.com\Nethief\WizardPage31.cpp"
+"D:\Temp\NewXing.com\Nethief\WizardPage4.cpp"
+"D:\Temp\NewXing.com\Nethief\WizardPage5.cpp"
+"D:\Temp\NewXing.com\Nethief\WizardPage6.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\shanshui\LOCALS~1\Temp\RSP8E.tmp" 
+Creating temporary file "C:\DOCUME~1\shanshui\LOCALS~1\Temp\RSP8F.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /FR"Debug/" /Fp"Debug/Nethief.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /c 
+"D:\Temp\NewXing.com\Nethief\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\shanshui\LOCALS~1\Temp\RSP8F.tmp" 
+Creating temporary file "C:\DOCUME~1\shanshui\LOCALS~1\Temp\RSP90.tmp" with contents
+[
+winmm.lib ws2_32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Nethief.pdb" /debug /machine:I386 /out:"Debug/Nethief.exe" /pdbtype:sept 
+.\Debug\ColorStatic.obj
+.\Debug\Community.obj
+.\Debug\DownloadDlg.obj
+.\Debug\EasterEggDlg.obj
+.\Debug\FileSocket.obj
+.\Debug\HelpUpdateDlg.obj
+.\Debug\IPToLocal.obj
+.\Debug\LinkStatic.obj
+.\Debug\MainFrm.obj
+.\Debug\Md5.obj
+.\Debug\MyFormView.obj
+.\Debug\MyListView.obj
+.\Debug\MySplitterWnd.obj
+.\Debug\MyTreeView.obj
+.\Debug\Nethief.obj
+.\Debug\NethiefDoc.obj
+.\Debug\OptionDlg.obj
+.\Debug\RemarkDlg.obj
+.\Debug\SelectFileOperationDlg.obj
+.\Debug\SelectIPDlg.obj
+.\Debug\SplashDlg.obj
+.\Debug\StdAfx.obj
+.\Debug\TipOfTheDayDlg.obj
+.\Debug\ToolBarBuildServerDlg.obj
+.\Debug\ToolBarFindFileDlg.obj
+.\Debug\ToolBarFindFileResultDlg.obj
+.\Debug\ToolBarPropertyDiskdriveDlg.obj
+.\Debug\ToolBarPropertyMultiDlg.obj
+.\Debug\ToolBarPropertySingleDlg.obj
+.\Debug\ToolBarRunDlg.obj
+.\Debug\ToolBarRunRemoteDlg.obj
+.\Debug\WizardPage1.obj
+.\Debug\WizardPage2.obj
+.\Debug\WizardPage3.obj
+.\Debug\WizardPage31.obj
+.\Debug\WizardPage4.obj
+.\Debug\WizardPage5.obj
+.\Debug\WizardPage6.obj
+.\Debug\Nethief.res
+]
+Creating command line "link.exe @C:\DOCUME~1\shanshui\LOCALS~1\Temp\RSP90.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+ColorStatic.cpp
+Community.cpp
+DownloadDlg.cpp
+EasterEggDlg.cpp
+FileSocket.cpp
+D:\Temp\NewXing.com\Nethief\FileSocket.cpp(573) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+D:\Temp\NewXing.com\Nethief\FileSocket.cpp(574) : warning C4244: 'argument' : conversion from 'float' to 'long', possible loss of data
+D:\Temp\NewXing.com\Nethief\FileSocket.cpp(589) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+D:\Temp\NewXing.com\Nethief\FileSocket.cpp(591) : warning C4244: 'argument' : conversion from 'float' to 'long', possible loss of data
+D:\Temp\NewXing.com\Nethief\FileSocket.cpp(612) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+D:\Temp\NewXing.com\Nethief\FileSocket.cpp(613) : warning C4244: 'argument' : conversion from 'float' to 'long', possible loss of data
+D:\Temp\NewXing.com\Nethief\FileSocket.cpp(655) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+D:\Temp\NewXing.com\Nethief\FileSocket.cpp(657) : warning C4244: 'argument' : conversion from 'float' to 'long', possible loss of data
+D:\Temp\NewXing.com\Nethief\FileSocket.cpp(998) : warning C4101: 'stServerConfig' : unreferenced local variable
+HelpUpdateDlg.cpp
+IPToLocal.cpp
+LinkStatic.cpp
+MainFrm.cpp
+Md5.cpp
+MyFormView.cpp
+MyListView.cpp
+MySplitterWnd.cpp
+MyTreeView.cpp
+Nethief.cpp
+D:\Temp\NewXing.com\Nethief\Nethief.cpp(263) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+NethiefDoc.cpp
+D:\Temp\NewXing.com\Nethief\NethiefDoc.cpp(3809) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+D:\Temp\NewXing.com\Nethief\NethiefDoc.cpp(5996) : warning C4101: 'stServerConfig' : unreferenced local variable
+OptionDlg.cpp
+RemarkDlg.cpp
+SelectFileOperationDlg.cpp
+SelectIPDlg.cpp
+Generating Code...
+Compiling...
+SplashDlg.cpp
+TipOfTheDayDlg.cpp
+ToolBarBuildServerDlg.cpp
+ToolBarFindFileDlg.cpp
+ToolBarFindFileResultDlg.cpp
+ToolBarPropertyDiskdriveDlg.cpp
+ToolBarPropertyMultiDlg.cpp
+ToolBarPropertySingleDlg.cpp
+ToolBarRunDlg.cpp
+ToolBarRunRemoteDlg.cpp
+WizardPage1.cpp
+WizardPage2.cpp
+WizardPage3.cpp
+WizardPage31.cpp
+WizardPage4.cpp
+WizardPage5.cpp
+WizardPage6.cpp
+Generating Code...
+Linking...
+Creating temporary file "C:\DOCUME~1\shanshui\LOCALS~1\Temp\RSP92.tmp" with contents
+[
+/nologo /o"Debug/Nethief.bsc" 
+.\Debug\StdAfx.sbr
+.\Debug\ColorStatic.sbr
+.\Debug\Community.sbr
+.\Debug\DownloadDlg.sbr
+.\Debug\EasterEggDlg.sbr
+.\Debug\FileSocket.sbr
+.\Debug\HelpUpdateDlg.sbr
+.\Debug\IPToLocal.sbr
+.\Debug\LinkStatic.sbr
+.\Debug\MainFrm.sbr
+.\Debug\Md5.sbr
+.\Debug\MyFormView.sbr
+.\Debug\MyListView.sbr
+.\Debug\MySplitterWnd.sbr
+.\Debug\MyTreeView.sbr
+.\Debug\Nethief.sbr
+.\Debug\NethiefDoc.sbr
+.\Debug\OptionDlg.sbr
+.\Debug\RemarkDlg.sbr
+.\Debug\SelectFileOperationDlg.sbr
+.\Debug\SelectIPDlg.sbr
+.\Debug\SplashDlg.sbr
+.\Debug\TipOfTheDayDlg.sbr
+.\Debug\ToolBarBuildServerDlg.sbr
+.\Debug\ToolBarFindFileDlg.sbr
+.\Debug\ToolBarFindFileResultDlg.sbr
+.\Debug\ToolBarPropertyDiskdriveDlg.sbr
+.\Debug\ToolBarPropertyMultiDlg.sbr
+.\Debug\ToolBarPropertySingleDlg.sbr
+.\Debug\ToolBarRunDlg.sbr
+.\Debug\ToolBarRunRemoteDlg.sbr
+.\Debug\WizardPage1.sbr
+.\Debug\WizardPage2.sbr
+.\Debug\WizardPage3.sbr
+.\Debug\WizardPage31.sbr
+.\Debug\WizardPage4.sbr
+.\Debug\WizardPage5.sbr
+.\Debug\WizardPage6.sbr]
+Creating command line "bscmake.exe @C:\DOCUME~1\shanshui\LOCALS~1\Temp\RSP92.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Nethief.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
